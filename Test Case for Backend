@@ -1,0 +1,4 @@
+Verify that after send any request we should get response
+Verify that response should be as per  requirement
+Verify that in  backend our data is storing in database or not
+We will use sql query to check,update and delete the data
