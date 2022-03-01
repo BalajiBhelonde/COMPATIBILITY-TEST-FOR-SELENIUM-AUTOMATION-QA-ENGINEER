@@ -1,0 +1,11 @@
+Open the browser and hit the url
+Enter the credentials  and login in aplication
+Application should landup on home page
+On application home page component should show
+Component should show with name,descrition,image and price
+Verify that user should able to add component in inventory
+In inventory verify that displaying list of component with their name,image and price of each item in inventory
+User should able to remove item from inventory
+Verify that after clicking any component informative page of component should open 
+Verify that informative page contains information about component photo,name,description and price
+
